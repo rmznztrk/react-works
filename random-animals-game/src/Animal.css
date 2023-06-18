@@ -1,0 +1,28 @@
+.imgElementDiv{
+    margin-top: .5%;
+    /* background-color: aqua; */
+    padding: 0px;
+    text-align: center;
+}
+
+.imgElement{
+    width: 400px;
+    height: 450px;
+    border-radius: 4%;
+}
+
+.animalName{
+    margin-top: 25px;
+    font-size: 35px;
+    background-color: blanchedalmond;
+    width: 35%;
+    text-align: center;
+    border-radius: 8px;
+    font-family:"Audiowide", sans-serif;
+}
+
+.nameHeader{
+    display: flex;
+    justify-content: center;
+}
+

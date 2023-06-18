@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  /* background-color: rgb(204, 0, 255); */
+  
+}
+
+.animalButton{
+  /* width: 33.3%; */
+  height: 4em;
+  border-radius: 2em;
+  background-color: purple;
+  color: rgba(255, 255, 5, 0.685);
+  margin-top: 1em;
+  padding: 0px 15% 0px 15%;
+  font-weight: bold;
+  font-size: 1rem;
+  border: 3.2px solid rgb(119, 0, 99);
+}
+
+.animalButton:hover{
+background-color: rgb(160, 0, 120);
+color: rgb(255, 255, 0);
+}
