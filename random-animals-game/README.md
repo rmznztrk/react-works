@@ -1,4 +1,5 @@
 random-animals-game
+
 -In this project, I applied what I learned by using react component and state structure. 
 
 
