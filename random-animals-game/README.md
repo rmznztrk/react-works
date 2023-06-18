@@ -1,3 +1,6 @@
+random-animals-game
+-In this project, I applied what I learned by using react component and state structure.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
