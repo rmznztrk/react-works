@@ -1,3 +1,8 @@
+**Creating a photo galeria by sending a request to the API and I did it using functional component and Unsplash API
+
+
+
+----------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
