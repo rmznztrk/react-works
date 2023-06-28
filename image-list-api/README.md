@@ -1,4 +1,4 @@
-**Creating a list of photos by sending a request to the API andI did it using class component
+**Creating a list of photos by sending a request to the API andI did it using class component and pixabay API
 
 
 --------------------------------------------------------------------------------------------------
