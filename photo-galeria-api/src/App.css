@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(9, 255, 0, 0.301);
+}
+.App{
+    background-color: rgba(2, 238, 187, 0.13);
+}
+.searchDiv {
+  background-color: rgba(137, 43, 226, 0.514);
+  border: 1px solid black;
+  margin: 5px;
+  padding: 3px;
+  border-radius: 5.5px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* background-color: aquamarine; */
+  text-align: center;
+}
+
+.searchDiv form input {
+  background-color: rgb(37, 37, 37);
+  color: aliceblue;
+  margin: 5px;
+  width: 200px;
+  border-radius: 4px;
+/* user-select: none; */
+}
+.searchDiv form label {
+  font-weight: 500;
+}
+
+.labelDiv {
+  /* background-color: blue; */
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  padding-top: 2px;
+}
+
+
+.imageListDiv{
+  columns: 100px 5; /*or -> column-width: 100px and column-count: 5;*/
+  /* column-gap: 5px; */
+  /* background-color: aqua; */
+}
+
+.imageItemDiv{
+  width: 95%; /*parent componentinin(imageListDiv'in) 100% ü demek*/
+  margin: 5px;
+  margin-bottom: 5px;
+  /* margin-left: 15px; */
+  /* max-height: ; */
+}
